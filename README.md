@@ -1,2 +1,2 @@
 # Football-Predictions
-Using Machine Learning to predict the autcome of football matches
+Using Machine Learning to predict the outcome of football matches for the world cup
